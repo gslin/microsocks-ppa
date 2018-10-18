@@ -1,5 +1,5 @@
-dehydrated-lite (0.0.1-1ubuntu1~unstable~ppa1) unstable; urgency=medium
+microsocks (0.1.0-0ubuntu1~unstable~ppa1) unstable; urgency=medium
 
-  * Initial version.
+  * Packaging 0.1.0.
 
- -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 19 Oct 2018 03:31:00 +0800
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 19 Oct 2018 03:44:55 +0800
