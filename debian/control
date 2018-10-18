@@ -1,0 +1,14 @@
+Source: microsocks
+Section: utils
+Priority: optional
+Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.7
+Homepage: https://github.com/rofl0r/microsocks
+Vcs-Git: https://github.com/rofl0r/microsocks.git
+Vcs-Browser: https://github.com/rofl0r/microsocks
+
+Package: microsocks
+Architecture: all
+Depends: ${shlibs:Depends}
+Description: multithreaded, small, efficient SOCKS5 server.
