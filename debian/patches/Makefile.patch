@@ -1,5 +1,5 @@
---- Makefile.orig	2019-03-09 06:41:00.475137492 +0800
-+++ Makefile	2019-03-09 06:41:30.775047474 +0800
+--- a/Makefile.orig	2019-03-09 06:41:00.475137492 +0800
++++ b/Makefile	2019-03-09 06:41:30.775047474 +0800
 @@ -1,7 +1,7 @@
  # if you want to change/override some variables, do so in a file called
  # config.mak, which is gets included automatically if it exists.
