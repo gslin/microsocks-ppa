@@ -1,3 +1,10 @@
+microsocks (1.0.1-0ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Packaging 1.0.1 again.
+  * Remove redundant installation.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sat, 09 Mar 2019 07:12:46 +0800
+
 microsocks (1.0.1-0ubuntu1~unstable~ppa2) unstable; urgency=medium
 
   * Packaging 1.0.1 again.
