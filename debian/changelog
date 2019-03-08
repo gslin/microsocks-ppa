@@ -1,3 +1,9 @@
+microsocks (1.0.1-0ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Packaging 1.0.1 again.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sat, 09 Mar 2019 06:52:05 +0800
+
 microsocks (1.0.1-0ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Packaging 1.0.1.
