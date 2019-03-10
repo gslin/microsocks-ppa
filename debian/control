@@ -9,6 +9,6 @@ Vcs-Git: https://github.com/rofl0r/microsocks.git
 Vcs-Browser: https://github.com/rofl0r/microsocks
 
 Package: microsocks
-Architecture: all
+Architecture: any
 Depends: ${shlibs:Depends}
 Description: multithreaded, small, efficient SOCKS5 server.
